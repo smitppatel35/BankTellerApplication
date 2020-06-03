@@ -1,0 +1,9 @@
+H:\Projects\.net Projects\Bank Teller Application\Bank Teller Application\Bank Teller Application\bin\Debug\Bank Teller Application.exe
+H:\Projects\.net Projects\Bank Teller Application\Bank Teller Application\Bank Teller Application\bin\Debug\Bank Teller Application.pdb
+H:\Projects\.net Projects\Bank Teller Application\Bank Teller Application\Bank Teller Application\obj\Debug\Bank Teller Application.csprojAssemblyReference.cache
+H:\Projects\.net Projects\Bank Teller Application\Bank Teller Application\Bank Teller Application\obj\Debug\Bank_Teller_Application.Form1.resources
+H:\Projects\.net Projects\Bank Teller Application\Bank Teller Application\Bank Teller Application\obj\Debug\Bank_Teller_Application.Properties.Resources.resources
+H:\Projects\.net Projects\Bank Teller Application\Bank Teller Application\Bank Teller Application\obj\Debug\Bank Teller Application.csproj.GenerateResource.cache
+H:\Projects\.net Projects\Bank Teller Application\Bank Teller Application\Bank Teller Application\obj\Debug\Bank Teller Application.csproj.CoreCompileInputs.cache
+H:\Projects\.net Projects\Bank Teller Application\Bank Teller Application\Bank Teller Application\obj\Debug\Bank Teller Application.exe
+H:\Projects\.net Projects\Bank Teller Application\Bank Teller Application\Bank Teller Application\obj\Debug\Bank Teller Application.pdb
